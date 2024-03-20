@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Elexs1zz
-- 👀 I’m interested in Cybersecurity and Quantum Computing
-- 🌱 I’m currently learning Spanish and Python
+- 👀 Im interested in Quantum Mechanics,Physics and Cybersecurity!
+- 🌱 I’m currently learning Spanish,Python and Shell
+- ❓ Fun Fact : Intel's name comes from INTegrated ELectronics
 
 <!---
 Elexs1zz/Elexs1zz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
