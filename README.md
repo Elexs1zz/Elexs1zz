@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @Elexs1zz
+- 
 - 👀 Im interested in Quantum Mechanics,Physics and Cybersecurity!
+-  -> I Also do 3D Modeling
+-  
 - 🌱 I’m currently learning Spanish,Python and Shell
+- 
 - ❓ Fun Fact : Intel's name comes from INTegrated ELectronics
 
 <!---
