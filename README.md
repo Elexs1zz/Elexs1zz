@@ -4,9 +4,7 @@
 🔐 I am also passionate about Cybersecurity, improving digital security and systemic loyalty.
 
 Reach out to me and let’s do some projects together and make an impact! 🌟
--  
-- 
-- 
+
 <!---
 Elexs1zz/Elexs1zz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
