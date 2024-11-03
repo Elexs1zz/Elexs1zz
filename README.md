@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Elexs1zz
-🚀 Welcome to my Github Profile! Advanced 3D modeling skills enable me to transform imaginative designs into reality. I’m interested in Robotics and Quantum Computing, where I work to go a notch higher in technology.
-
--🔐 I am also passionate about Cybersecurity, improving digital security and systemic loyalty.
+ 🚀 Welcome to my Github Profile! Advanced 3D modeling skills enable me to transform imaginative designs into reality. I’m interested in Robotics and Quantum Computing, where I work to go a notch higher in technology.
+ 🔐 I am also passionate about Cybersecurity, improving digital security and systemic loyalty.
 
 Reach out to me and let’s do some projects together and make an impact! 🌟
 
