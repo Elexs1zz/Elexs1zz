@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Elexsizz! <br>🚀 Welcome to my Github Profile! Advanced 3D modeling skills enable me to transform imaginative designs into reality. I’m interested in Robotics and Quantum Computing, where I work to go a notch higher in technology.<br2><br2>  🔐 I am also passionate about Cybersecurity, improving digital security and systemic loyalty.<br2><br2>Reach out to me and let’s do some projects together and make an impact! 🌟
+# Hi, I'm Elexsizz! <br2>🚀 Welcome to my Github Profile! Advanced 3D modeling skills enable me to transform imaginative designs into reality. I’m interested in Robotics and Quantum Computing, where I work to go a notch higher in technology.<br2><br2>  🔐 I am also passionate about Cybersecurity, improving digital security and systemic loyalty.<br2><br2>Reach out to me and let’s do some projects together and make an impact! 🌟
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@efeonder) 
