@@ -1,7 +1,6 @@
 # 💫 About Me:
 # Hi, I'm Elexsizz! <br>🚀 Welcome to my Github Profile! Advanced 3D modeling skills enable me to transform imaginative designs into reality. I’m interested in Robotics and Quantum Computing, where I work to go a notch higher in technology.<br><br>  🔐 I am also passionate about Cybersecurity, improving digital security and systemic loyalty.<br><br>Reach out to me and let’s do some projects together and make an impact! 🌟
 
-
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@efeonder) 
 
@@ -12,13 +11,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Elexs1zz&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elexs1zz&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Elexs1zz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Elexs1zz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
