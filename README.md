@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Elexs1zz
- 🚀 Welcome to my Github Profile! Advanced 3D modeling skills enable me to transform imaginative designs into reality. I’m interested in Robotics and Quantum Computing, where I work to go a notch higher in technology.
+# Hi, I'm Elexsizz! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 🚀 Welcome to my Github Profile! Advanced 3D modeling skills enable me to transform imaginative designs into reality. I’m interested in Robotics and Quantum Computing, where I work to go a notch higher in technology.
 
   🔐 I am also passionate about Cybersecurity, improving digital security and systemic loyalty.
 
