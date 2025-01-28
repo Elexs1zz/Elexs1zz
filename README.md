@@ -1,16 +1,24 @@
-# Hi, I'm Elexsizz! 
-🚀 Welcome to my Github Profile! Advanced 3D modeling skills enable me to transform imaginative designs into reality. I’m interested in Robotics and Quantum Computing, where I work to go a notch higher in technology.
+# 💫 About Me:
+# Hi, I'm Elexsizz! <br>🚀 Welcome to my Github Profile! Advanced 3D modeling skills enable me to transform imaginative designs into reality. I’m interested in Robotics and Quantum Computing, where I work to go a notch higher in technology.<br><br>  🔐 I am also passionate about Cybersecurity, improving digital security and systemic loyalty.<br><br>Reach out to me and let’s do some projects together and make an impact! 🌟
 
-  🔐 I am also passionate about Cybersecurity, improving digital security and systemic loyalty.
 
-Reach out to me and let’s do some projects together and make an impact! 🌟
+## 🌐 Socials:
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@efeonder) 
 
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#Elexs1zz&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#Elexs1zz" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=#Elexs1zz&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#Elexs1zz" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#elexs1zz&theme=highcontrast&hide_border=true" alt="#elexs1zz" />
-</p>
-<!---
-Elexs1zz/Elexs1zz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Elexs1zz&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Elexs1zz&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elexs1zz&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Elexs1zz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Elexs1zz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
